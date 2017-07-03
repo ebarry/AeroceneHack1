@@ -3,4 +3,4 @@
 
 Collection of code from the weekend's hack. All under a lovely GPL v3 license.
 
-For more about the Aerocene Project and to get in touch: http://www.aerocene.com/
+For more about the Aerocene Project and to get in touch: www.aerocene.org
